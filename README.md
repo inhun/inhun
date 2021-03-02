@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h2 align="center">👋 inhun (Inhun Choi) kr</h2> 
 <!--
 **inhun/inhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
